@@ -1,4 +1,6 @@
 # RSYNC
+![immagine](https://user-images.githubusercontent.com/56889513/117019303-94e60680-acf5-11eb-8d0d-e9a56f063ce6.png)
+
 Il nome rsync indica un protocollo di rete per la sincronizzazione dei file che risale al 1996 ed è stato sviluppato, tra gli altri, da Andrew Tridgell, principale responsabile del progetto SAMBA. Oltre al protocollo, esiste uno strumento con lo stesso nome che consente la comunicazione. L'applicazione con licenza GPL può essere utilizzata gratuitamente e trasferisce i dati da una directory di origine alla directory di destinazione desiderata, in locale o su una rete pubblica. Rsync confronta la dimensione dei file e il tempo di creazione di tutti i file nelle cartelle di origine e di destinazione in modo che solo i file modificati debbano essere copiati a ogni sincronizzazione. Per questo, l'operazione di backup di rsync è indicata come un backup incrementale, che ha il vantaggio di poter essere eseguita rapidamente e occupa poco spazio.
 
  N.B.
